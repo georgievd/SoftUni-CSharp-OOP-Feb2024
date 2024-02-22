@@ -1,0 +1,15 @@
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.sourcelink.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Animals\obj\Debug\net6.0\ref\Animals.dll

@@ -1,0 +1,15 @@
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.exe
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.sourcelink.json
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+C:\Users\dgeorgiev\Desktop\SoftUni-CSharp-OOP-Feb2024\Inheritance\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll
