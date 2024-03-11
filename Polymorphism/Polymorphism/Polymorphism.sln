@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Polymorphism\Vehicles.csproj", "{5376196B-E081-4D13-B990-5C390E43A1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroes", "Heroes\Heroes.csproj", "{8BC9C794-10FA-49C1-82B3-E59FA0D87F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5376196B-E081-4D13-B990-5C390E43A1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5376196B-E081-4D13-B990-5C390E43A1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5376196B-E081-4D13-B990-5C390E43A1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5376196B-E081-4D13-B990-5C390E43A1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC9C794-10FA-49C1-82B3-E59FA0D87F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC9C794-10FA-49C1-82B3-E59FA0D87F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC9C794-10FA-49C1-82B3-E59FA0D87F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC9C794-10FA-49C1-82B3-E59FA0D87F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB2DA7C-D8AE-413F-81DA-5C04DB13B9FA}
+	EndGlobalSection
+EndGlobal
