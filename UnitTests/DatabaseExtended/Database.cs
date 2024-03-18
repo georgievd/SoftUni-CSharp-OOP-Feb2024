@@ -6,7 +6,6 @@ namespace ExtendedDatabase
     public class Database
     {
         private Person[] persons;
-
         private int count;
 
         public Database(params Person[] persons)

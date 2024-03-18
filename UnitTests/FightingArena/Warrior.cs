@@ -9,7 +9,7 @@ namespace FightingArena
         private string name;
         private int damage;
         private int hp;
-
+     
         public Warrior(string name, int damage, int hp)
         {
             this.Name = name;
